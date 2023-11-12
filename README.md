@@ -3,8 +3,6 @@ git study remote repository
 ---
 간단한 소개글을 작성합니다
 
-![테스트 이미지](./스크린샷_20221210_024017.png)
-
 <https://github.com/>
 
 `print("간단")`
